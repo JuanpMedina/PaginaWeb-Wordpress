@@ -1,0 +1,2129 @@
+# Translation of Plugins - Orbit Fox by ThemeIsle - Development (trunk) in Spanish (Colombia)
+# This file is distributed under the same license as the Plugins - Orbit Fox by ThemeIsle - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-12-25 05:47:06+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: es_CO\n"
+"Project-Id-Version: Plugins - Orbit Fox by ThemeIsle - Development (trunk)\n"
+
+#: obfx_modules/elementor-widgets/init.php:49
+msgid "Learn more"
+msgstr "Aprender más"
+
+#: obfx_modules/elementor-widgets/init.php:43
+msgid "10+ more Elementor and Gutenberg widgets"
+msgstr "Más de 10 widgets para Elementor y Gutenberg"
+
+#. translators: %1$s is the features, %2$s is the plugin name
+#: obfx_modules/elementor-widgets/init.php:40
+msgid "You can get access to %1$s, including Instagram integration, display conditions and more in %2$s."
+msgstr "Puedes obtener acceso a %1$s, incluyendo la integración de Instagram, las condiciones de visualización y más en %2$s."
+
+#: core/app/class-orbit-fox-admin.php:134
+msgid "Data unchanged!"
+msgstr "¡Datos no cambiados!"
+
+#: core/app/class-orbit-fox-admin.php:113
+msgid "Module not found!"
+msgstr "¡Módulo no encontrado!"
+
+#: core/app/class-orbit-fox-admin.php:104
+msgid "Bad request!"
+msgstr "¡Solicitud incorrecta!"
+
+#: obfx_modules/gutenberg-blocks/init.php:184
+msgid "Dismiss this notice."
+msgstr "Descartar este aviso."
+
+#. translators: %s Otter plugin link
+#: obfx_modules/gutenberg-blocks/init.php:181
+msgid "This module will soon be removed. In order to keep the content you created with this module, please install %s"
+msgstr "Este módulo pronto será eliminado. Para mantener el contenido que has creado con este módulo, por favor, instala %s"
+
+#: obfx_modules/gutenberg-blocks/init.php:176
+msgid "It seems you are using the Gutenberg Blocks module from Orbit Fox."
+msgstr "Parece que estás usando el módulo de bloques de Gutenberg de Orbit Fox."
+
+#. translators: %s Otter plugin link
+#: obfx_modules/gutenberg-blocks/init.php:35
+msgid "This module will soon be removed form Orbit Fox. To keep the content you created with this module, please install %s"
+msgstr "Este módulo pronto será eliminado de Orbit Fox. Para mantener el contenido que has creado con este módulo, por favor, instala %s"
+
+#: obfx_modules/custom-fonts/init.php:30
+msgid "Custom fonts"
+msgstr "Fuentes personalizadas"
+
+#. translators: %1$s first alternative url, %2$s second alternative url, %3$s
+#. third alternative url.
+#: core/app/class-orbit-fox-admin.php:303
+msgid "We have retired the free uptime monitoring module in OrbitFox since we haven't been able to dedicate more time to its development and direction. Instead, we recommend using services like %1$s, %2$s, or %3$s, which provide more options/integrations and faster checks."
+msgstr "Hemos retirado el módulo gratuito de monitorización del tiempo de actividad en OrbitFox, ya que no hemos podido dedicar más tiempo a su desarrollo y dirección. En su lugar, recomendamos usar servicios como %1$s, %2$s o %3$s, que proporcionan más opciones/integraciones y comprobaciones más rápidas."
+
+#: core/app/class-orbit-fox-admin.php:293
+msgid "opens in a new tab"
+msgstr "se abre en una nueva pestaña"
+
+#: obfx_modules/custom-fonts/init.php:31
+msgid "Upload custom fonts and use them anywhere on your site."
+msgstr "Sube las fuentes personalizadas y úsalas en cualquier parte de tu sitio."
+
+#: obfx_modules/custom-fonts/custom_fonts_admin.php:153
+#: obfx_modules/custom-fonts/custom_fonts_admin.php:234
+msgid "Upload"
+msgstr "Subir"
+
+#: obfx_modules/custom-fonts/custom_fonts_admin.php:124
+#: obfx_modules/custom-fonts/custom_fonts_admin.php:202
+msgid "Select font-display property for this font"
+msgstr "Selecciona la propiedad «font-display» para esta fuente"
+
+#: obfx_modules/custom-fonts/custom_fonts_admin.php:123
+#: obfx_modules/custom-fonts/custom_fonts_admin.php:200
+msgid "Font Display"
+msgstr "Visualización de la fuente"
+
+#: obfx_modules/custom-fonts/custom_fonts_admin.php:119
+#: obfx_modules/custom-fonts/custom_fonts_admin.php:196
+msgid "Upload the font's otf file or enter the URL."
+msgstr "Sube el archivo .otf de la fuente o introduce la URL."
+
+#: obfx_modules/custom-fonts/custom_fonts_admin.php:119
+#: obfx_modules/custom-fonts/custom_fonts_admin.php:196
+msgid "Font .otf"
+msgstr "Fuente .otf"
+
+#: obfx_modules/custom-fonts/custom_fonts_admin.php:118
+#: obfx_modules/custom-fonts/custom_fonts_admin.php:195
+msgid "Upload the font's svg file or enter the URL."
+msgstr "Sube el archivo .svg de la fuente o introduce la URL."
+
+#: obfx_modules/custom-fonts/custom_fonts_admin.php:118
+#: obfx_modules/custom-fonts/custom_fonts_admin.php:195
+msgid "Font .svg"
+msgstr "Fuente .svg"
+
+#: obfx_modules/custom-fonts/custom_fonts_admin.php:117
+#: obfx_modules/custom-fonts/custom_fonts_admin.php:194
+msgid "Upload the font's eot file or enter the URL."
+msgstr "Sube el archivo .otf de la fuente o introduce la URL."
+
+#: obfx_modules/custom-fonts/custom_fonts_admin.php:117
+#: obfx_modules/custom-fonts/custom_fonts_admin.php:194
+msgid "Font .eot"
+msgstr "Fuente .eot"
+
+#: obfx_modules/custom-fonts/custom_fonts_admin.php:116
+#: obfx_modules/custom-fonts/custom_fonts_admin.php:193
+msgid "Upload the font's ttf file or enter the URL."
+msgstr "Sube el archivo .ttf de la fuente o introduce la URL."
+
+#: obfx_modules/custom-fonts/custom_fonts_admin.php:116
+#: obfx_modules/custom-fonts/custom_fonts_admin.php:193
+msgid "Font .ttf"
+msgstr "Fuente .ttf"
+
+#: obfx_modules/custom-fonts/custom_fonts_admin.php:115
+#: obfx_modules/custom-fonts/custom_fonts_admin.php:192
+msgid "Upload the font's woff file or enter the URL."
+msgstr "Sube el archivo .woff de la fuente o introduce la URL."
+
+#: obfx_modules/custom-fonts/custom_fonts_admin.php:115
+#: obfx_modules/custom-fonts/custom_fonts_admin.php:192
+msgid "Font .woff"
+msgstr "Fuente .woff"
+
+#: obfx_modules/custom-fonts/custom_fonts_admin.php:114
+#: obfx_modules/custom-fonts/custom_fonts_admin.php:191
+msgid "Upload the font's woff2 file or enter the URL."
+msgstr "Sube el archivo .woff2 de la fuente o introduce la URL."
+
+#: obfx_modules/custom-fonts/custom_fonts_admin.php:114
+#: obfx_modules/custom-fonts/custom_fonts_admin.php:191
+msgid "Font .woff2"
+msgstr "Fuente .woff2"
+
+#: obfx_modules/custom-fonts/custom_fonts_admin.php:86
+msgid "The name of the font as it appears in the customizer options."
+msgstr "El nombre de la fuente tal como aparece en las opciones del personalizador."
+
+#: obfx_modules/custom-fonts/custom_fonts_admin.php:30
+msgid "No fonts found"
+msgstr "No se han encontrado fuentes"
+
+#: obfx_modules/custom-fonts/custom_fonts_admin.php:29
+msgid "New Font Name"
+msgstr "Nombre de la nueva fuente"
+
+#: obfx_modules/custom-fonts/custom_fonts_admin.php:28
+msgid "Add New Font"
+msgstr "Añadir una nueva fuente"
+
+#: obfx_modules/custom-fonts/custom_fonts_admin.php:27
+msgid "Update Font"
+msgstr "Actualizar la fuente"
+
+#: obfx_modules/custom-fonts/custom_fonts_admin.php:26
+msgid "Edit Font"
+msgstr "Editar la fuente"
+
+#: obfx_modules/custom-fonts/custom_fonts_admin.php:25
+msgid "Parent Font:"
+msgstr "Fuente principal:"
+
+#: obfx_modules/custom-fonts/custom_fonts_admin.php:24
+msgid "Parent Font"
+msgstr "Fuente principal"
+
+#: obfx_modules/custom-fonts/custom_fonts_admin.php:23
+msgid "All Fonts"
+msgstr "Todas las fuentes"
+
+#: obfx_modules/custom-fonts/custom_fonts_admin.php:22
+msgid "Search Fonts"
+msgstr "Buscar fuentes"
+
+#: obfx_modules/custom-fonts/custom_fonts_admin.php:21
+msgctxt "Admin menu name"
+msgid "Custom Fonts"
+msgstr "Fuentes personalizadas"
+
+#: obfx_modules/custom-fonts/custom_fonts_admin.php:20
+msgid "Font"
+msgstr "Fuente"
+
+#: obfx_modules/custom-fonts/custom_fonts_admin.php:19
+#: obfx_modules/custom-fonts/custom_fonts_admin.php:60
+#: obfx_modules/custom-fonts/custom_fonts_admin.php:61
+msgid "Custom Fonts"
+msgstr "Fuentes personalizadas"
+
+#: obfx_modules/custom-fonts/custom_fonts_public.php:222
+msgid "Custom"
+msgstr "Personalizado"
+
+#: obfx_modules/header-footer-scripts/init.php:181
+msgid "Scripts"
+msgstr "Scripts"
+
+#. translators: %s is head tag
+#. translators: %s is body tag
+#: obfx_modules/header-footer-scripts/init.php:134
+#: obfx_modules/header-footer-scripts/init.php:164
+msgid "This code will output immediately before the closing %s tag in document source."
+msgstr "Este código se ejecuta inmediatamente antes de cerrar la etiqueta %s en el documento fuente."
+
+#: obfx_modules/header-footer-scripts/init.php:116
+#: obfx_modules/header-footer-scripts/init.php:146
+#: obfx_modules/header-footer-scripts/init.php:302
+#: obfx_modules/header-footer-scripts/init.php:335
+msgid "Enter your scripts here"
+msgstr "Introduce aquí tus scripts"
+
+#: obfx_modules/header-footer-scripts/init.php:104
+msgid "Header/Footer scripts"
+msgstr "Scripts de la cabecera y pie de página"
+
+#. translators: %s is body tag
+#: obfx_modules/header-footer-scripts/init.php:49
+msgid "Output before the closing %s tag, after sitewide footer scripts."
+msgstr "Ejecución antes de la etiqueta de cierre de %s. después de los scripts del pie de página de todo el sitio."
+
+#: obfx_modules/header-footer-scripts/init.php:46
+#: obfx_modules/header-footer-scripts/init.php:161
+msgid "Footer scripts"
+msgstr "Scripts del pie de página"
+
+#. translators: %s is head tag
+#: obfx_modules/header-footer-scripts/init.php:40
+msgid "Output before the closing %s tag, after sitewide header scripts."
+msgstr "Ejecución antes de la etiqueta de cierre de %s. después de los scripts de cabecera de todo el sitio."
+
+#: obfx_modules/header-footer-scripts/init.php:37
+#: obfx_modules/header-footer-scripts/init.php:131
+msgid "Header scripts"
+msgstr "Scripts de la cabecera"
+
+#: obfx_modules/header-footer-scripts/init.php:32
+msgid "An easy way to add scripts, such as tracking and analytics scripts, to the header and footer of your website, as well as in the body of your posts and pages."
+msgstr "Un modo sencillo de añadir scripts, como scripts de seguimiento y analítica, a la cabecera y pie de página de tu web, así como en el cuerpo de tus entradas y páginas."
+
+#: obfx_modules/header-footer-scripts/init.php:30
+msgid "Header Footer Scripts"
+msgstr "Scripts de cabecera y pie de página"
+
+#: obfx_modules/mystock-import/init.php:184
+msgid "Image successfully uploaded to the media library!"
+msgstr "¡Imagen subida correctamente a la biblioteca de medios!"
+
+#: obfx_modules/mystock-import/init.php:161
+msgid "Image type could not be determined"
+msgstr "No se ha podido determinar el tipo de imagen"
+
+#: obfx_modules/mystock-import/init.php:154
+msgid "Image download failed, please try again."
+msgstr "Ha fallado la descarga de la imagen, por favor, inténtalo de nuevo."
+
+#: obfx_modules/mystock-import/init.php:146
+msgid "The URL of the image does not exist."
+msgstr "La URL de la imagen no existe."
+
+#: obfx_modules/mystock-import/init.php:141
+msgid "Invalid nonce."
+msgstr "Nonce no válido."
+
+#: obfx_modules/mystock-import/init.php:135
+msgid "The current user does not have permission to upload files."
+msgstr "El usuario actual no tiene permiso para subir archivos."
+
+#: obfx_modules/mystock-import/init.php:130
+msgid "There was an error getting image details from the request, please try again."
+msgstr "Ha habido un error en la solicitud al obtener los detalles de la imagen, por favor, inténtalo de nuevo."
+
+#: core/app/views/modules-page.php:72 dashboard/build/dashboard.js:1
+#: dashboard/src/utils/common.js:21
+msgid "Recommended Plugins"
+msgstr "Plugins recomendados"
+
+#: obfx_modules/gutenberg-blocks/init.php:145
+msgid "Blocks by OrbitFox and Otter"
+msgstr "Blocks by OrbitFox and Otter"
+
+#. translators: %1$s Start anchor tag, %2$s End anchor tag
+#: obfx_modules/gutenberg-blocks/init.php:30
+msgid "A set of awesome Gutenberg Blocks provided by %1$sOtter's%2$s plugin!"
+msgstr "¡Un conjunto de fantásticos bloques Gutenberg Blocks ofrecidos por el plugin de %1$sOtter%2$s!"
+
+#: obfx_modules/policy-notice/init.php:360
+msgid "Not Set"
+msgstr "No establecido"
+
+#: obfx_modules/policy-notice/init.php:123
+msgid "Accept Cookie Button Label"
+msgstr "Etiqueta del botón «Aceptar cookies»"
+
+#: obfx_modules/gutenberg-blocks/init.php:25
+msgid "Gutenberg Blocks"
+msgstr "Bloques de Gutenberg"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://orbitfox.com/"
+msgstr "https://orbitfox.com/"
+
+#: obfx_modules/policy-notice/init.php:363
+msgid "Default Core Policy"
+msgstr "Política central por defecto"
+
+#: obfx_modules/policy-notice/init.php:118
+msgid "View Policy"
+msgstr "Ver política"
+
+#: obfx_modules/policy-notice/init.php:116
+msgid "Policy Button Label"
+msgstr "Etiqueta de botón de política"
+
+#: obfx_modules/policy-notice/init.php:108
+msgid "Policy Page"
+msgstr "Página de política"
+
+#: obfx_modules/policy-notice/init.php:103
+msgid "This website uses cookies to improve your experience. We'll assume you accept this policy as long as you are using this website"
+msgstr "Esta web usa cookies para mejorar tu experiencia. Asumiremos que aceptas la política si sigues usando este sitio"
+
+#: obfx_modules/policy-notice/init.php:101
+msgid "Policy description"
+msgstr "Descripción de la política"
+
+#: obfx_modules/policy-notice/init.php:94
+msgid "Allow OrbitFox to display a bottom bar with info about the website Private Policy."
+msgstr "Permitir a OrbitFox mostrar una barra inferior con información acerca de la política de privacidad de la web."
+
+#: obfx_modules/policy-notice/init.php:29
+msgid "A simple notice bar which will help you inform users about your website policy."
+msgstr "Una sencilla barra de aviso que te ayudará a informar a los usuarios acerca de la política de tu web."
+
+#: obfx_modules/policy-notice/init.php:28
+msgid "Policy Notice"
+msgstr "Aviso de la política"
+
+#: core/app/views/partials/module-tile-tpl.php:72
+msgid "Beta module"
+msgstr "Módulo beta"
+
+#. translators: %1$s Component name %2$s Component type
+#: obfx_modules/menu-icons/init.php:311
+msgid "There appears to be a conflict with the %1$s %2$s. This module may not work as expected."
+msgstr "Parece ser un conflicto en el %1$s %2$s. Puede que este módulo no funcione como se espera."
+
+#: obfx_modules/menu-icons/init.php:306
+msgid "plugin"
+msgstr "plugin"
+
+#: obfx_modules/menu-icons/init.php:296
+msgid "theme"
+msgstr "tema"
+
+#: obfx_modules/companion-legacy/inc/shop-isle/customizer.php:444
+msgid "Advantage"
+msgstr "Ventaja"
+
+#: obfx_modules/companion-legacy/inc/shop-isle/customizer.php:433
+#: obfx_modules/companion-legacy/inc/shop-isle/customizer.php:445
+msgid "Add new advantage"
+msgstr "Añadir nueva ventaja"
+
+#: obfx_modules/companion-legacy/inc/shop-isle/customizer.php:420
+#: obfx_modules/companion-legacy/inc/shop-isle/customizer.php:734
+msgid "Easy to use"
+msgstr "Fácil de usar"
+
+#: obfx_modules/companion-legacy/inc/shop-isle/customizer.php:415
+#: obfx_modules/companion-legacy/inc/shop-isle/customizer.php:729
+msgid "Highly customizable"
+msgstr "Altamente personalizable"
+
+#: obfx_modules/companion-legacy/inc/shop-isle/customizer.php:410
+#: obfx_modules/companion-legacy/inc/shop-isle/customizer.php:724
+msgid "Designs & interfaces"
+msgstr "Diseños e interfaces"
+
+#: obfx_modules/companion-legacy/inc/shop-isle/customizer.php:405
+#: obfx_modules/companion-legacy/inc/shop-isle/customizer.php:719
+msgid "Ideas and concepts"
+msgstr "Ideas y conceptos"
+
+#: obfx_modules/companion-legacy/inc/shop-isle/customizer.php:372
+msgid "About us page - our advantages"
+msgstr "Página \"sobre nosotros - nuestras ventajas\""
+
+#: obfx_modules/companion-legacy/inc/shop-isle/customizer.php:363
+#: obfx_modules/companion-legacy/inc/shop-isle/customizer.php:382
+#: obfx_modules/companion-legacy/inc/shop-isle/template-about.php:162
+msgid "Our advantages"
+msgstr "Nuestras ventajas"
+
+#: obfx_modules/companion-legacy/inc/shop-isle/customizer.php:308
+#: obfx_modules/companion-legacy/inc/shop-isle/template-about.php:141
+msgid "What the video about our new products"
+msgstr "Video sobre nuestros nuevos productos"
+
+#: obfx_modules/companion-legacy/inc/shop-isle/customizer.php:290
+#: obfx_modules/companion-legacy/inc/shop-isle/template-about.php:140
+msgid "Presentation"
+msgstr "Presentación"
+
+#: obfx_modules/companion-legacy/inc/shop-isle/customizer.php:280
+msgid "About us page - video"
+msgstr "Página \"sobre nosotros - vídeo\""
+
+#: obfx_modules/companion-legacy/inc/shop-isle/customizer.php:271
+#: obfx_modules/companion-legacy/inc/shop-isle/customizer.php:353
+msgid "Video"
+msgstr "Video"
+
+#: obfx_modules/companion-legacy/inc/shop-isle/customizer.php:238
+msgid "Team member"
+msgstr "Miembro del equipo"
+
+#: obfx_modules/companion-legacy/inc/shop-isle/customizer.php:172
+#: obfx_modules/companion-legacy/inc/shop-isle/template-about.php:82
+msgid "An awesome way to introduce the members of your team."
+msgstr "Una forma sorprendente para introducir los miembros de tu equipo."
+
+#: obfx_modules/companion-legacy/inc/shop-isle/customizer.php:144
+msgid "About us page - our team"
+msgstr "Página \"Sobre nosotros - nuestro equipo\""
+
+#: obfx_modules/companion-legacy/inc/shop-isle/customizer.php:135
+msgid "Our team"
+msgstr "Nuestro equipo"
+
+#: obfx_modules/companion-legacy/inc/shop-isle/customizer.php:129
+#: obfx_modules/companion-legacy/inc/shop-isle/customizer.php:247
+msgid "About us page"
+msgstr "Pagina acerca de nosotros"
+
+#: obfx_modules/companion-legacy/inc/shop-isle/customizer.php:114
+msgid "You can replace the homepage slider with any plugin you like, just copy the shortcode generated and paste it here."
+msgstr "Puedes reemplazar el carrusel de la página de inicio con el plugin que quieras. Simplemente copia el shortcode generado y pégalo aquí."
+
+#: obfx_modules/companion-legacy/inc/shop-isle/customizer.php:113
+msgid "Slider shortcode"
+msgstr "Shortcode del carrusel"
+
+#: obfx_modules/companion-legacy/inc/shop-isle/customizer.php:95
+msgid "Slide"
+msgstr "Diapositiva"
+
+#: obfx_modules/companion-legacy/inc/shop-isle/customizer.php:85
+#: obfx_modules/companion-legacy/inc/shop-isle/customizer.php:96
+msgid "Add new slide"
+msgstr "Añadir nueva diapositiva"
+
+#: obfx_modules/companion-legacy/inc/shop-isle/customizer.php:35
+msgid "Slider section"
+msgstr "Sección del carrusel"
+
+#: obfx_modules/companion-legacy/inc/shop-isle/customizer.php:23
+msgid "doc"
+msgstr "documentación"
+
+#: obfx_modules/companion-legacy/inc/shop-isle/customizer.php:23
+msgid "Need further assistance? Check out this"
+msgstr "¿Necesitas más ayuda? Mira esto"
+
+#: obfx_modules/companion-legacy/inc/shop-isle/customizer.php:23
+msgid "To customize the About us Page you need to first select the template \"About us page\" for the page you want to use for this purpose. Then open that page in the browser and press \"Customize\" in the top bar."
+msgstr "Para personalizar la página \"sobre nosotros\", primero necesitas seleccionar la plantilla \"página sobre nosotros\" en la página que quieres utilizar para esta finalidad. Entonces, abre esa página en el navegador y presiona \"personalizar\" en la barra superior."
+
+#: obfx_modules/companion-legacy/inc/shop-isle/content-slider.php:37
+#: obfx_modules/companion-legacy/inc/shop-isle/customizer.php:71
+msgid "Responsive Theme"
+msgstr "Tema adaptable"
+
+#: obfx_modules/companion-legacy/inc/shop-isle/content-slider.php:30
+#: obfx_modules/companion-legacy/inc/shop-isle/customizer.php:64
+msgid "Hight quality store"
+msgstr "Tienda de alta calidad"
+
+#: obfx_modules/companion-legacy/inc/shop-isle/content-slider.php:24
+#: obfx_modules/companion-legacy/inc/shop-isle/content-slider.php:31
+#: obfx_modules/companion-legacy/inc/shop-isle/content-slider.php:38
+#: obfx_modules/companion-legacy/inc/shop-isle/customizer.php:58
+#: obfx_modules/companion-legacy/inc/shop-isle/customizer.php:65
+#: obfx_modules/companion-legacy/inc/shop-isle/customizer.php:72
+msgid "FIND OUT MORE"
+msgstr "SABER MÁS"
+
+#: obfx_modules/companion-legacy/inc/shop-isle/content-slider.php:23
+#: obfx_modules/companion-legacy/inc/shop-isle/customizer.php:57
+msgid "WooCommerce Theme"
+msgstr "Tema Woocommerce"
+
+#: obfx_modules/companion-legacy/inc/shop-isle/content-slider.php:22
+#: obfx_modules/companion-legacy/inc/shop-isle/content-slider.php:29
+#: obfx_modules/companion-legacy/inc/shop-isle/content-slider.php:36
+#: obfx_modules/companion-legacy/inc/shop-isle/customizer.php:56
+#: obfx_modules/companion-legacy/inc/shop-isle/customizer.php:63
+#: obfx_modules/companion-legacy/inc/shop-isle/customizer.php:70
+msgid "ShopIsle"
+msgstr "ShopIsle"
+
+#: obfx_modules/companion-legacy/inc/shop-isle/customizer.php:227
+#: obfx_modules/companion-legacy/inc/shop-isle/customizer.php:239
+msgid "Add new team member"
+msgstr "Añadir nuevo miembro del equipo"
+
+#: obfx_modules/companion-legacy/inc/shop-isle/customizer.php:406
+#: obfx_modules/companion-legacy/inc/shop-isle/customizer.php:411
+#: obfx_modules/companion-legacy/inc/shop-isle/customizer.php:416
+#: obfx_modules/companion-legacy/inc/shop-isle/customizer.php:421
+#: obfx_modules/companion-legacy/inc/shop-isle/customizer.php:720
+#: obfx_modules/companion-legacy/inc/shop-isle/customizer.php:725
+#: obfx_modules/companion-legacy/inc/shop-isle/customizer.php:730
+#: obfx_modules/companion-legacy/inc/shop-isle/customizer.php:735
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+msgstr "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+
+#: obfx_modules/google-analytics/init.php:233
+msgid "Authenticate with Google"
+msgstr "Identifícate con Google"
+
+#: obfx_modules/google-analytics/init.php:266
+msgid "Unregister Site"
+msgstr "Anular el registro en el sitio"
+
+#: obfx_modules/google-analytics/init.php:238
+msgid "Select a tracking code"
+msgstr "Selecciona un código de rastreo"
+
+#: obfx_modules/google-analytics/init.php:32
+msgid "A module to integrate Google Analytics into your site easily."
+msgstr "Un módulo para integrar Google Analytics fácilmente en tu sitio."
+
+#: obfx_modules/google-analytics/init.php:31
+msgid "Analytics Integration"
+msgstr "Integración con Analytics"
+
+#: core/app/views/partials/module-tile-tpl.php:42
+msgid "Got it!"
+msgstr "¡Lo tengo!"
+
+#. translators: Go to url.
+#: core/app/class-orbit-fox-admin.php:334
+msgid "Dashboard Page"
+msgstr "Página del escritorio"
+
+#. translators: Go to url.
+#: core/app/class-orbit-fox-admin.php:334
+msgid "You have activated Orbit Fox plugin! Go to the %s to get started with the extra features."
+msgstr "¡Has activado el plugin Orbit Fox! Ve a %s para tus primeros pasos con las características extras."
+
+#. Description of the plugin
+msgid "This swiss-knife plugin comes with a quality template library, menu/sharing icons modules, Gutenberg blocks, and newly added Elementor/BeaverBuilder page builder widgets on each release."
+msgstr "Este plugin/navaja suiza viene con una biblioteca de plantillas de calidad, módulos de menús e iconos para compartir, bloques para Gutenberg, y los recientemente añadidos widgets para Elementor y BeaverBuilder."
+
+#. translators: %s Document anchor link.
+#: obfx_modules/social-sharing/init.php:34
+msgid "demo"
+msgstr "demo"
+
+#. translators: %s Document anchor link.
+#: obfx_modules/social-sharing/init.php:34
+msgid "Add basic social sharing to your posts and pages. Check out the %s to learn more!"
+msgstr "Añada opciones básicas para compartir en redes sociales a tus entradas y páginas. ¡Mira la %s para más información!"
+
+#. translators: %s Plugin name
+#: obfx_modules/menu-icons/init.php:192
+msgid "Powered by %s plugin"
+msgstr "Funciona gracias al plugin %s"
+
+#: obfx_modules/beaver-widgets/init.php:28
+#: obfx_modules/elementor-widgets/init.php:33
+msgid "Adds widgets to the most popular builders: Elementor or Beaver. More to come!"
+msgstr "Añade widgets a los maquetadores más populares: Elementor o Beaver. ¡Más por venir!"
+
+#: obfx_modules/beaver-widgets/init.php:27
+#: obfx_modules/elementor-widgets/init.php:32
+msgid "Page builder widgets"
+msgstr "Widgets del maquetador de páginas"
+
+#: obfx_modules/beaver-widgets/modules/services/obfx-services.php:181
+#: obfx_modules/beaver-widgets/modules/services/services.php:176
+msgid "Content style"
+msgstr "Estilo de contenido"
+
+#: obfx_modules/beaver-widgets/modules/services/obfx-services.php:152
+#: obfx_modules/beaver-widgets/modules/services/services.php:147
+msgid "Title style"
+msgstr "Estilo del título"
+
+#: obfx_modules/beaver-widgets/modules/services/obfx-services.php:102
+#: obfx_modules/beaver-widgets/modules/services/services.php:97
+msgid "Icon style"
+msgstr "Estilo del icono"
+
+#: obfx_modules/beaver-widgets/modules/services/obfx-services.php:74
+#: obfx_modules/beaver-widgets/modules/services/services.php:69
+msgid "5"
+msgstr "5"
+
+#: obfx_modules/beaver-widgets/modules/services/obfx-services.php:73
+#: obfx_modules/beaver-widgets/modules/services/services.php:68
+msgid "4"
+msgstr "4"
+
+#: obfx_modules/beaver-widgets/modules/services/obfx-services.php:72
+#: obfx_modules/beaver-widgets/modules/services/services.php:67
+msgid "3"
+msgstr "3"
+
+#: obfx_modules/beaver-widgets/modules/services/obfx-services.php:71
+#: obfx_modules/beaver-widgets/modules/services/services.php:66
+msgid "2"
+msgstr "2"
+
+#: obfx_modules/beaver-widgets/modules/services/obfx-services.php:61
+#: obfx_modules/beaver-widgets/modules/services/obfx-services.php:225
+#: obfx_modules/beaver-widgets/modules/services/services.php:56
+#: obfx_modules/beaver-widgets/modules/services/services.php:220
+msgid "Service"
+msgstr "Servicio"
+
+#: obfx_modules/beaver-widgets/modules/services/obfx-services.php:37
+#: obfx_modules/beaver-widgets/modules/services/services.php:32
+msgid "An overview of the products or services."
+msgstr "Una visión general de los productos o servicios."
+
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:577
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:572
+msgid "Bold text"
+msgstr "Texto en negrita"
+
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:570
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:565
+#: obfx_modules/beaver-widgets/modules/services/obfx-services.php:105
+#: obfx_modules/beaver-widgets/modules/services/obfx-services.php:155
+#: obfx_modules/beaver-widgets/modules/services/obfx-services.php:184
+#: obfx_modules/beaver-widgets/modules/services/obfx-services.php:228
+#: obfx_modules/beaver-widgets/modules/services/services.php:100
+#: obfx_modules/beaver-widgets/modules/services/services.php:150
+#: obfx_modules/beaver-widgets/modules/services/services.php:179
+#: obfx_modules/beaver-widgets/modules/services/services.php:223
+msgid "General"
+msgstr "General"
+
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:538
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:533
+msgid "Button background on hover"
+msgstr "Fondo del botón al pasar el cursor"
+
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:525
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:520
+msgid "Button background"
+msgstr "Fondo del botón"
+
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:512
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:507
+msgid "Text on hover"
+msgstr "Texto al pasar el cursor"
+
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:467
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:462
+msgid "Button Style"
+msgstr "Estilo del botón"
+
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:431
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:426
+msgid "Bold text color"
+msgstr "Color de texto en negrita"
+
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:418
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:413
+#: obfx_modules/beaver-widgets/modules/services/obfx-services.php:249
+#: obfx_modules/beaver-widgets/modules/services/services.php:244
+msgid "Icon color"
+msgstr "Color del icono"
+
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:399
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:394
+msgid "Features Style"
+msgstr "Estilo de las características"
+
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:376
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:371
+msgid "Period color"
+msgstr "Color del periodo"
+
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:363
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:358
+msgid "Currency color"
+msgstr "Color de la moneda"
+
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:350
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:345
+msgid "Price color"
+msgstr "Color del precio"
+
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:331
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:326
+msgid "Price Style"
+msgstr "Estilo del precio"
+
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:323
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:318
+msgid "Radial"
+msgstr "Radial"
+
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:322
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:317
+msgid "Diagonal top"
+msgstr "Diagonal superior"
+
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:321
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:316
+msgid "Diagonal bottom"
+msgstr "Botón diagonal"
+
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:320
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:315
+msgid "Vertical"
+msgstr "Vertical"
+
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:319
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:314
+msgid "Horizontal"
+msgstr "Horizontal"
+
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:316
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:311
+msgid "Orientation"
+msgstr "Orientación"
+
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:311
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:306
+msgid "Gradient color 2"
+msgstr "Graciente de color 2"
+
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:306
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:301
+msgid "Gradient color 1"
+msgstr "Color de gradiente 1"
+
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:301
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:296
+msgid "Photo Field"
+msgstr "Campo de foto"
+
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:271
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:266
+msgid "Gradient"
+msgstr "Degradado"
+
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:262
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:270
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:257
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:265
+#: obfx_modules/companion-legacy/inc/shop-isle/customizer.php:335
+msgid "Background"
+msgstr "Fondo"
+
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:256
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:251
+msgid "Subtitle typography"
+msgstr "Tipografía del subtítulo"
+
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:249
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:244
+msgid "Title typography"
+msgstr "Tipografía del título"
+
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:234
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:229
+msgid "Subtitle color"
+msgstr "Color del subtítulo"
+
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:221
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:216
+msgid "Title color"
+msgstr "Color del título"
+
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:217
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:346
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:414
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:495
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:212
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:341
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:409
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:490
+msgid "Colors"
+msgstr "Colores"
+
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:202
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:197
+msgid "Header Style"
+msgstr "Estilo de la cabecera"
+
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:189
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:184
+msgid "Align"
+msgstr "Alinear"
+
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:175
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:170
+msgid "Button link"
+msgstr "Enlace del botón"
+
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:150
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:145
+msgid "Features list"
+msgstr "Lista de características"
+
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:131
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:126
+msgid "Currency position"
+msgstr "Valor de la moneda"
+
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:94
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:89
+msgid "Subtitle tag"
+msgstr "Etiqueta de subtítulo"
+
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:86
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:81
+msgid "Plan subtitle"
+msgstr "Subtítulo del plan"
+
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:63
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:58
+msgid "Plan title"
+msgstr "Título del plan"
+
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:58
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:53
+msgid "Plan Header"
+msgstr "Encabezado del plan"
+
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:37
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:32
+msgid "Pricing Tables are the perfect option when showcasing services you have on offer."
+msgstr "Las tablas de precios son la opción perfecta cuando muestras los servicios que ofreces."
+
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:36
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:31
+msgid "Pricing table"
+msgstr "Tabla de precios"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/obfx-post-grid.php:338
+#: obfx_modules/beaver-widgets/modules/post-grid/post-grid.php:334
+msgid "Pagination alignment"
+msgstr "Alineación de la página"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/obfx-post-grid.php:334
+#: obfx_modules/beaver-widgets/modules/post-grid/post-grid.php:330
+msgid "Enable pagination"
+msgstr "Activar paginación"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/obfx-post-grid.php:327
+#: obfx_modules/beaver-widgets/modules/post-grid/post-grid.php:323
+msgid "Pagination options"
+msgstr "Opciones de paginación"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/obfx-post-grid.php:293
+#: obfx_modules/beaver-widgets/modules/post-grid/post-grid.php:289
+msgid "Text alignment"
+msgstr "Alineación del texto"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/obfx-post-grid.php:282
+#: obfx_modules/beaver-widgets/modules/post-grid/post-grid.php:278
+msgid "Read more text"
+msgstr "Texto «Leer más»"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/obfx-post-grid.php:276
+#: obfx_modules/beaver-widgets/modules/post-grid/post-grid.php:272
+msgid "Number of words"
+msgstr "Número de palabras"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/obfx-post-grid.php:271
+#: obfx_modules/beaver-widgets/modules/post-grid/post-grid.php:267
+msgid "Show read more"
+msgstr "Mostrar «Leer más»"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/obfx-post-grid.php:266
+#: obfx_modules/beaver-widgets/modules/post-grid/post-grid.php:262
+msgid "Show post content"
+msgstr "Mostrar contenido de la entrada"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/obfx-post-grid.php:259
+#: obfx_modules/beaver-widgets/modules/post-grid/post-grid.php:255
+msgid "Content options"
+msgstr "Opciones de contenido"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/obfx-post-grid.php:226
+#: obfx_modules/beaver-widgets/modules/post-grid/post-grid.php:222
+msgid "Meta alignment"
+msgstr "Alineación del meta"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/obfx-post-grid.php:209
+#: obfx_modules/beaver-widgets/modules/post-grid/post-grid.php:205
+msgid "If icons doesn't show you have to enqueue FontAwesome in your theme."
+msgstr "Si los iconos no se muestran, tienes que añadir FontAwesome en tu tema."
+
+#: obfx_modules/beaver-widgets/modules/post-grid/obfx-post-grid.php:207
+#: obfx_modules/beaver-widgets/modules/post-grid/post-grid.php:203
+msgid "Show icons"
+msgstr "Mostrar iconos"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/obfx-post-grid.php:202
+#: obfx_modules/beaver-widgets/modules/post-grid/post-grid.php:198
+msgid "Show post meta"
+msgstr "Mostrar meta de la entrada"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/obfx-post-grid.php:195
+#: obfx_modules/beaver-widgets/modules/post-grid/post-grid.php:191
+msgid "Meta options"
+msgstr "Opciones meta"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/obfx-post-grid.php:167
+#: obfx_modules/beaver-widgets/modules/post-grid/post-grid.php:163
+msgid "div"
+msgstr "div"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/obfx-post-grid.php:165
+#: obfx_modules/beaver-widgets/modules/post-grid/post-grid.php:161
+msgid "span"
+msgstr "span"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/obfx-post-grid.php:164
+#: obfx_modules/beaver-widgets/modules/post-grid/post-grid.php:160
+msgid "H6"
+msgstr "H6"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/obfx-post-grid.php:163
+#: obfx_modules/beaver-widgets/modules/post-grid/post-grid.php:159
+msgid "H5"
+msgstr "H5"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/obfx-post-grid.php:162
+#: obfx_modules/beaver-widgets/modules/post-grid/post-grid.php:158
+msgid "H4"
+msgstr "H4"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/obfx-post-grid.php:161
+#: obfx_modules/beaver-widgets/modules/post-grid/post-grid.php:157
+msgid "H3"
+msgstr "H3"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/obfx-post-grid.php:160
+#: obfx_modules/beaver-widgets/modules/post-grid/post-grid.php:156
+msgid "H2"
+msgstr "H2"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/obfx-post-grid.php:159
+#: obfx_modules/beaver-widgets/modules/post-grid/post-grid.php:155
+msgid "H1"
+msgstr "H1"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/obfx-post-grid.php:156
+#: obfx_modules/beaver-widgets/modules/post-grid/post-grid.php:152
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:71
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:66
+msgid "Title tag"
+msgstr "Etiqueta del título"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/obfx-post-grid.php:145
+#: obfx_modules/beaver-widgets/modules/post-grid/post-grid.php:141
+msgid "Title alignment"
+msgstr "Alineación del título"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/obfx-post-grid.php:140
+#: obfx_modules/beaver-widgets/modules/post-grid/post-grid.php:136
+msgid "Link on title"
+msgstr "Enlace en el título"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/obfx-post-grid.php:135
+#: obfx_modules/beaver-widgets/modules/post-grid/post-grid.php:131
+msgid "Show post title"
+msgstr "Mostrar título de la entrada"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/obfx-post-grid.php:128
+#: obfx_modules/beaver-widgets/modules/post-grid/post-grid.php:124
+msgid "Title options"
+msgstr "Opciones del título"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/obfx-post-grid.php:94
+#: obfx_modules/beaver-widgets/modules/post-grid/post-grid.php:90
+msgid "Image alignment"
+msgstr "Alineación de la imagen"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/obfx-post-grid.php:87
+#: obfx_modules/beaver-widgets/modules/post-grid/post-grid.php:83
+msgid "Image size"
+msgstr "Tamaño de la imagen"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/obfx-post-grid.php:82
+#: obfx_modules/beaver-widgets/modules/post-grid/post-grid.php:78
+msgid "Enable thumbnail shadow"
+msgstr "Activar sombra de miniatura"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/obfx-post-grid.php:77
+#: obfx_modules/beaver-widgets/modules/post-grid/post-grid.php:73
+msgid "Link in thumbnail"
+msgstr "Enlace en la miniatura"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/obfx-post-grid.php:72
+#: obfx_modules/beaver-widgets/modules/post-grid/post-grid.php:68
+msgid "Show post thumbnail"
+msgstr "Mostrar miniatura de la entrada"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/obfx-post-grid.php:65
+#: obfx_modules/beaver-widgets/modules/post-grid/post-grid.php:61
+msgid "Image options"
+msgstr "Opciones de imagen"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/obfx-post-grid.php:61
+#: obfx_modules/beaver-widgets/modules/post-grid/post-grid.php:57
+msgid "Loop Settings"
+msgstr "Ajustes de repetición"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/obfx-post-grid.php:37
+#: obfx_modules/beaver-widgets/modules/post-grid/post-grid.php:33
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:38
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:33
+#: obfx_modules/beaver-widgets/modules/services/obfx-services.php:38
+#: obfx_modules/beaver-widgets/modules/services/services.php:33
+msgid "Orbit Fox Modules"
+msgstr "Módulos de Orbit Fox"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/obfx-post-grid.php:36
+#: obfx_modules/beaver-widgets/modules/post-grid/post-grid.php:32
+msgid "A method to display your posts."
+msgstr "Un método para mostrar tus entradas."
+
+#: obfx_modules/beaver-widgets/modules/post-grid/obfx-post-grid.php:35
+#: obfx_modules/beaver-widgets/modules/post-grid/post-grid.php:31
+msgid "Post Grid"
+msgstr "Cuadrícula de entrada"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/includes/loop-settings.php:314
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:444
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:439
+msgid "Text color"
+msgstr "Color del texto"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/includes/loop-settings.php:298
+msgid "Link color"
+msgstr "Color de vínculo"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/includes/loop-settings.php:280
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:287
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:282
+#: obfx_modules/beaver-widgets/modules/services/obfx-services.php:84
+#: obfx_modules/beaver-widgets/modules/services/services.php:79
+msgid "Background color"
+msgstr "Color de fondo"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/includes/loop-settings.php:268
+msgid "Margin bottom"
+msgstr "Margen inferior"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/includes/loop-settings.php:256
+msgid "Margin top"
+msgstr "Margen superior"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/includes/loop-settings.php:246
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:184
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:179
+#: obfx_modules/beaver-widgets/modules/services/obfx-services.php:79
+#: obfx_modules/beaver-widgets/modules/services/services.php:74
+msgid "Card layout"
+msgstr "Extructura de la tarjeta"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/includes/loop-settings.php:231
+msgid "Display type"
+msgstr "Tipo de muestra"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/includes/loop-settings.php:219
+msgid "Middle"
+msgstr "En medio"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/includes/loop-settings.php:215
+msgid "Vertical align"
+msgstr "Alineación vertical"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/includes/loop-settings.php:206
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:180
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:175
+msgid "Appearance"
+msgstr "Apariencia"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/includes/loop-settings.php:196
+msgid "Enter a list of authors usernames."
+msgstr "Introduce una lista de nombres de usuario de autores."
+
+#: obfx_modules/beaver-widgets/modules/post-grid/includes/loop-settings.php:195
+msgid "Authors"
+msgstr "Autores"
+
+#. translators: %1$s is Post type label.
+#. translators: %1$s is Taxonomy label.
+#: obfx_modules/beaver-widgets/modules/post-grid/includes/loop-settings.php:155
+#: obfx_modules/beaver-widgets/modules/post-grid/includes/loop-settings.php:176
+msgid "Enter a list of %1$s."
+msgstr "Introduce una lista de %1$s."
+
+#: obfx_modules/beaver-widgets/modules/post-grid/includes/loop-settings.php:134
+msgid "Filter"
+msgstr "Filtro"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/includes/loop-settings.php:123
+#: obfx_modules/beaver-widgets/modules/services/obfx-services.php:67
+#: obfx_modules/beaver-widgets/modules/services/services.php:62
+msgid "Number of columns"
+msgstr "Número de columnas"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/includes/loop-settings.php:113
+msgid "-1 means all posts"
+msgstr "-1 quiere decir «todas las entradas»"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/includes/loop-settings.php:110
+msgid "Posts per page"
+msgstr "Entradas por página"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/includes/loop-settings.php:100
+msgid "Skip this many posts that match the specified criteria."
+msgstr "Omitir las entradas que coincidan con los criterios especificados."
+
+#: obfx_modules/beaver-widgets/modules/post-grid/includes/loop-settings.php:97
+msgctxt "How many posts to skip."
+msgid "Offset"
+msgstr "Compensar"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/includes/loop-settings.php:87
+msgid "Meta Key"
+msgstr "Clave del meta"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/includes/loop-settings.php:66
+msgid "Meta Value (Numeric)"
+msgstr "Valor del meta (numérico)"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/includes/loop-settings.php:65
+msgid "Meta Value (Alphabetical)"
+msgstr "Valor del meta (alfabético)"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/includes/loop-settings.php:64
+msgid "Menu Order"
+msgstr "Orden del menú"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/includes/loop-settings.php:63
+msgid "ID"
+msgstr "Id"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/includes/loop-settings.php:62
+msgid "Date Last Modified"
+msgstr "Fecha de última modificación"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/includes/loop-settings.php:60
+msgid "Comment Count"
+msgstr "Recuento de comentarios"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/includes/loop-settings.php:57
+msgid "Order By"
+msgstr "Odenar por"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/includes/loop-settings.php:46
+msgid "Ascending"
+msgstr "Ascendiente"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/includes/loop-settings.php:45
+msgid "Descending"
+msgstr "Descendiente"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/includes/loop-settings.php:43
+msgid "Order"
+msgstr "Orden"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/includes/loop-settings.php:24
+msgid "Custom Query"
+msgstr "Consulta personalizada"
+
+#. translators: 1: number of comments, 2: post title
+#: obfx_modules/beaver-widgets/modules/post-grid/includes/frontend.php:187
+msgctxt "comments title"
+msgid "%1$s Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "%1$s comentario"
+msgstr[1] "%1$s comentarios"
+
+#. translators: %s: post title
+#: obfx_modules/beaver-widgets/modules/post-grid/includes/frontend.php:182
+msgctxt "comments title"
+msgid "One comment"
+msgstr "Un comentario"
+
+#. translators: %1$s is Author name wrapped, %2$s is Time
+#: obfx_modules/beaver-widgets/modules/post-grid/includes/frontend.php:101
+msgid "By %1$s"
+msgstr "Por %1$s"
+
+#: obfx_modules/beaver-widgets/inc/common-functions.php:112
+msgid "Letter spacing"
+msgstr "Espaciado de las letras"
+
+#: obfx_modules/beaver-widgets/inc/common-functions.php:107
+msgid "Line height"
+msgstr "Espaciado de letras"
+
+#: obfx_modules/beaver-widgets/inc/common-functions.php:102
+msgid "Oblique"
+msgstr "Oblique"
+
+#: obfx_modules/beaver-widgets/inc/common-functions.php:101
+msgid "Italic"
+msgstr "Italic"
+
+#: obfx_modules/beaver-widgets/inc/common-functions.php:97
+msgid "Font style"
+msgstr "Estilo de fuente"
+
+#: obfx_modules/beaver-widgets/inc/common-functions.php:92
+msgid "Lowercase"
+msgstr "Minúscula"
+
+#: obfx_modules/beaver-widgets/inc/common-functions.php:91
+msgid "Uppercase"
+msgstr "Mayúscula"
+
+#: obfx_modules/beaver-widgets/inc/common-functions.php:90
+msgid "Capitalize"
+msgstr "Capitalizar"
+
+#: obfx_modules/beaver-widgets/inc/common-functions.php:89
+msgid "None"
+msgstr "Ninguno"
+
+#: obfx_modules/beaver-widgets/inc/common-functions.php:86
+msgid "Transform"
+msgstr "Transformar"
+
+#: obfx_modules/beaver-widgets/inc/common-functions.php:78
+msgid "Font family"
+msgstr "Familia de la fuente"
+
+#: obfx_modules/beaver-widgets/inc/common-functions.php:72
+msgid "Font size"
+msgstr "Tamaño de letra"
+
+#: obfx_modules/beaver-widgets/inc/common-functions.php:36
+#: obfx_modules/beaver-widgets/modules/post-grid/includes/loop-settings.php:220
+msgid "Bottom"
+msgstr "Abajo"
+
+#: obfx_modules/beaver-widgets/inc/common-functions.php:31
+#: obfx_modules/beaver-widgets/inc/common-functions.php:37
+#: obfx_modules/beaver-widgets/inc/common-functions.php:43
+#: obfx_modules/beaver-widgets/inc/common-functions.php:49
+#: obfx_modules/beaver-widgets/inc/common-functions.php:73
+#: obfx_modules/beaver-widgets/inc/common-functions.php:108
+#: obfx_modules/beaver-widgets/inc/common-functions.php:113
+#: obfx_modules/beaver-widgets/modules/services/obfx-services.php:120
+#: obfx_modules/beaver-widgets/modules/services/services.php:115
+msgid "px"
+msgstr "px"
+
+#: obfx_modules/beaver-widgets/inc/common-functions.php:26
+msgid "Margins"
+msgstr "Márgenes"
+
+#: obfx_modules/beaver-widgets/custom-fields/toggle-field/toggle_field.php:27
+msgid "No"
+msgstr "No"
+
+#: obfx_modules/beaver-widgets/custom-fields/toggle-field/toggle_field.php:26
+msgid "Yes"
+msgstr "Si"
+
+#: obfx_modules/mystock-import/init.php:280
+msgid "Import & insert image"
+msgstr "Importar e insertar imagen"
+
+#: obfx_modules/mystock-import/init.php:279
+msgid "Import & set featured image"
+msgstr "Importar y establecer imagen destacada"
+
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:266
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:261
+msgid "Type"
+msgstr "Tipo"
+
+#: obfx_modules/template-directory/init.php:73
+#: obfx_modules/template-directory/init.php:120
+msgid "Orbit Fox Template Directory"
+msgstr "Directorio de plantillas de Orbit Fox"
+
+#: obfx_modules/template-directory/init.php:31
+msgid "The awesome template directory is aiming to provide a wide range of templates that you can import straight into your website."
+msgstr "El directorio de plantillas tiene por objetivo proporcionar una amplia gama de plantillas que se puedan importar directamente en tu sitio web."
+
+#: obfx_modules/template-directory/init.php:30
+msgid "Template Directory Module"
+msgstr "Módulo Directorio de plantillas"
+
+#: obfx_modules/beaver-widgets/inc/common-functions.php:30
+#: obfx_modules/beaver-widgets/modules/post-grid/includes/loop-settings.php:218
+msgid "Top"
+msgstr "Superior"
+
+#: obfx_modules/beaver-widgets/modules/services/obfx-services.php:254
+#: obfx_modules/beaver-widgets/modules/services/services.php:249
+msgid "Link to"
+msgstr "Enlazar a"
+
+#: obfx_modules/beaver-widgets/modules/services/obfx-services.php:36
+#: obfx_modules/beaver-widgets/modules/services/services.php:31
+msgid "Services"
+msgstr "Servicios"
+
+#: obfx_modules/beaver-widgets/inc/common-functions.php:64
+msgid "Typography"
+msgstr "Tipografía"
+
+#: obfx_modules/policy-notice/init.php:125
+msgid "Accept"
+msgstr "Acepto"
+
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:141
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:136
+msgid "/month"
+msgstr "/mes"
+
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:140
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:135
+msgid "Period"
+msgstr "Plazo"
+
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:135
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:130
+msgid "After"
+msgstr "Después"
+
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:134
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:129
+msgid "Before"
+msgstr "Antes"
+
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:122
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:117
+msgid "Currency"
+msgstr "Moneda"
+
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:109
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:104
+msgid "Price Tag"
+msgstr "Etiqueta de precio"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/obfx-post-grid.php:166
+#: obfx_modules/beaver-widgets/modules/post-grid/post-grid.php:162
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:80
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:103
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:75
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:98
+msgid "p"
+msgstr "p"
+
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:79
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:102
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:74
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:97
+msgid "h6"
+msgstr "h6"
+
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:78
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:101
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:73
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:96
+msgid "h5"
+msgstr "h5"
+
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:77
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:100
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:72
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:95
+msgid "h4"
+msgstr "h4"
+
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:76
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:99
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:71
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:94
+msgid "h3"
+msgstr "h3"
+
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:75
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:98
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:70
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:93
+msgid "h2"
+msgstr "h2"
+
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:74
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:97
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:69
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:92
+msgid "h1"
+msgstr "h1"
+
+#: obfx_modules/beaver-widgets/inc/common-functions.php:100
+msgid "Normal"
+msgstr "Normal"
+
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:269
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:264
+#: obfx_modules/beaver-widgets/modules/services/obfx-services.php:159
+#: obfx_modules/beaver-widgets/modules/services/obfx-services.php:198
+#: obfx_modules/beaver-widgets/modules/services/services.php:154
+#: obfx_modules/beaver-widgets/modules/services/services.php:193
+msgid "Color"
+msgstr "Color"
+
+#: obfx_modules/beaver-widgets/inc/common-functions.php:26
+msgid "Padding"
+msgstr "Relleno"
+
+#: obfx_modules/beaver-widgets/modules/services/obfx-services.php:188
+#: obfx_modules/beaver-widgets/modules/services/services.php:183
+msgid "Alignment"
+msgstr "Alineación"
+
+#: obfx_modules/beaver-widgets/inc/common-functions.php:48
+#: obfx_modules/beaver-widgets/modules/post-grid/obfx-post-grid.php:99
+#: obfx_modules/beaver-widgets/modules/post-grid/obfx-post-grid.php:150
+#: obfx_modules/beaver-widgets/modules/post-grid/obfx-post-grid.php:231
+#: obfx_modules/beaver-widgets/modules/post-grid/obfx-post-grid.php:298
+#: obfx_modules/beaver-widgets/modules/post-grid/obfx-post-grid.php:343
+#: obfx_modules/beaver-widgets/modules/post-grid/post-grid.php:95
+#: obfx_modules/beaver-widgets/modules/post-grid/post-grid.php:146
+#: obfx_modules/beaver-widgets/modules/post-grid/post-grid.php:227
+#: obfx_modules/beaver-widgets/modules/post-grid/post-grid.php:294
+#: obfx_modules/beaver-widgets/modules/post-grid/post-grid.php:339
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:194
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:189
+#: obfx_modules/beaver-widgets/modules/services/obfx-services.php:114
+#: obfx_modules/beaver-widgets/modules/services/obfx-services.php:193
+#: obfx_modules/beaver-widgets/modules/services/services.php:109
+#: obfx_modules/beaver-widgets/modules/services/services.php:188
+msgid "Right"
+msgstr "Derecha"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/obfx-post-grid.php:97
+#: obfx_modules/beaver-widgets/modules/post-grid/obfx-post-grid.php:148
+#: obfx_modules/beaver-widgets/modules/post-grid/obfx-post-grid.php:229
+#: obfx_modules/beaver-widgets/modules/post-grid/obfx-post-grid.php:296
+#: obfx_modules/beaver-widgets/modules/post-grid/obfx-post-grid.php:341
+#: obfx_modules/beaver-widgets/modules/post-grid/post-grid.php:93
+#: obfx_modules/beaver-widgets/modules/post-grid/post-grid.php:144
+#: obfx_modules/beaver-widgets/modules/post-grid/post-grid.php:225
+#: obfx_modules/beaver-widgets/modules/post-grid/post-grid.php:292
+#: obfx_modules/beaver-widgets/modules/post-grid/post-grid.php:337
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:192
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:187
+#: obfx_modules/beaver-widgets/modules/services/obfx-services.php:113
+#: obfx_modules/beaver-widgets/modules/services/obfx-services.php:192
+#: obfx_modules/beaver-widgets/modules/services/services.php:108
+#: obfx_modules/beaver-widgets/modules/services/services.php:187
+msgid "Center"
+msgstr "Centrada"
+
+#: obfx_modules/beaver-widgets/inc/common-functions.php:42
+#: obfx_modules/beaver-widgets/modules/post-grid/obfx-post-grid.php:98
+#: obfx_modules/beaver-widgets/modules/post-grid/obfx-post-grid.php:149
+#: obfx_modules/beaver-widgets/modules/post-grid/obfx-post-grid.php:230
+#: obfx_modules/beaver-widgets/modules/post-grid/obfx-post-grid.php:297
+#: obfx_modules/beaver-widgets/modules/post-grid/obfx-post-grid.php:342
+#: obfx_modules/beaver-widgets/modules/post-grid/post-grid.php:94
+#: obfx_modules/beaver-widgets/modules/post-grid/post-grid.php:145
+#: obfx_modules/beaver-widgets/modules/post-grid/post-grid.php:226
+#: obfx_modules/beaver-widgets/modules/post-grid/post-grid.php:293
+#: obfx_modules/beaver-widgets/modules/post-grid/post-grid.php:338
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:193
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:188
+#: obfx_modules/beaver-widgets/modules/services/obfx-services.php:112
+#: obfx_modules/beaver-widgets/modules/services/obfx-services.php:191
+#: obfx_modules/beaver-widgets/modules/services/services.php:107
+#: obfx_modules/beaver-widgets/modules/services/services.php:186
+msgid "Left"
+msgstr "Izquierda"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/obfx-post-grid.php:283
+#: obfx_modules/beaver-widgets/modules/post-grid/post-grid.php:279
+msgid "Read more"
+msgstr "Leer más"
+
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:166
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:161
+msgid "Button text"
+msgstr "Texto del botón"
+
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:162
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:167
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:157
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:162
+msgid "Button"
+msgstr "Botón"
+
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:113
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:108
+msgid "Price"
+msgstr "Precio"
+
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:55
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:50
+#: obfx_modules/beaver-widgets/modules/services/obfx-services.php:53
+#: obfx_modules/beaver-widgets/modules/services/services.php:48
+msgid "Content"
+msgstr "Contenido"
+
+#: obfx_modules/beaver-widgets/modules/services/obfx-services.php:70
+#: obfx_modules/beaver-widgets/modules/services/services.php:65
+msgid "1"
+msgstr "1"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/obfx-post-grid.php:220
+#: obfx_modules/beaver-widgets/modules/post-grid/post-grid.php:216
+msgid "Comments"
+msgstr "Comentarios"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/obfx-post-grid.php:219
+#: obfx_modules/beaver-widgets/modules/post-grid/post-grid.php:215
+msgid "Tags"
+msgstr "Etiquetas"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/obfx-post-grid.php:213
+#: obfx_modules/beaver-widgets/modules/post-grid/post-grid.php:209
+msgid "Display"
+msgstr "Mostrar"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/includes/loop-settings.php:67
+msgid "Random"
+msgstr "Aleatorio"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/includes/loop-settings.php:61
+#: obfx_modules/beaver-widgets/modules/post-grid/obfx-post-grid.php:217
+#: obfx_modules/beaver-widgets/modules/post-grid/post-grid.php:213
+msgid "Date"
+msgstr "Fecha"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/includes/loop-settings.php:235
+msgid "List"
+msgstr "Lista"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/includes/loop-settings.php:234
+msgid "Grid"
+msgstr "Cuadrícula"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/obfx-post-grid.php:218
+#: obfx_modules/beaver-widgets/modules/post-grid/post-grid.php:214
+msgid "Category"
+msgstr "Categoría"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/includes/loop-settings.php:33
+msgid "Post Type"
+msgstr "Tipo de entrada"
+
+#: obfx_modules/companion-legacy/init.php:68
+msgid "Module containing frontpage improvements for %s theme."
+msgstr "Módulo que contiene mejoras en la página de inicio para el tema %s."
+
+#: obfx_modules/companion-legacy/init.php:67
+msgid "%s enhancements"
+msgstr "Mejoras de %s"
+
+#: core/app/class-orbit-fox-admin.php:264
+msgid "General Settings"
+msgstr "Ajustes generales"
+
+#: core/app/class-orbit-fox-admin.php:264
+msgid "Orbit Fox General Options"
+msgstr "Opciones generales de Orbit Fox"
+
+#: obfx_modules/mystock-import/init.php:278
+msgid "MyStock Library"
+msgstr "Biblioteca de MyStock"
+
+#: obfx_modules/mystock-import/init.php:277
+msgid "Loading more photos..."
+msgstr "Cargando más fotos..."
+
+#: obfx_modules/mystock-import/init.php:276
+msgid "Your image was imported. Go to Media Library tab to use it."
+msgstr "Tu imagen fue importada. Ve a la biblioteca de medios para usarla."
+
+#: obfx_modules/mystock-import/init.php:275
+msgid "Downloading image. Please wait..."
+msgstr "Descargando imagen. Por favor, espera..."
+
+#: obfx_modules/mystock-import/init.php:274
+msgid "Fetching data"
+msgstr "Obteniendo datos"
+
+#: obfx_modules/beaver-widgets/modules/services/obfx-services.php:119
+#: obfx_modules/beaver-widgets/modules/services/services.php:114
+msgid "Size"
+msgstr "Tamaño"
+
+#: obfx_modules/mystock-import/init.php:50
+msgid "Module to import images directly from"
+msgstr "Módulo para importar imágenes directamente desde"
+
+#: obfx_modules/mystock-import/init.php:49
+msgid "Mystock Import"
+msgstr "Importación de Mystock"
+
+#: obfx_modules/mystock-import/inc/photo.php:23
+msgid "Deselect"
+msgstr "Deseleccionar"
+
+#: obfx_modules/menu-icons/init.php:34
+msgid "Module to define menu icons for navigation."
+msgstr "Módulo para definir los iconos del menú de navegación."
+
+#: obfx_modules/menu-icons/init.php:33
+msgid "Menu Icons"
+msgstr "Iconos de menú"
+
+#: obfx_modules/companion-legacy/inc/hestia/inc/features/feature-ribbon-section.php:121
+msgid "Button Text"
+msgstr "Botón de Texto"
+
+#: obfx_modules/companion-legacy/inc/hestia/inc/features/feature-ribbon-section.php:108
+#: obfx_modules/companion-legacy/inc/hestia/inc/sections/hestia-ribbon-section.php:42
+msgid "Subscribe"
+msgstr "Suscribirse"
+
+#: obfx_modules/companion-legacy/inc/hestia/inc/features/feature-ribbon-section.php:88
+#: obfx_modules/companion-legacy/inc/hestia/inc/sections/hestia-ribbon-section.php:39
+msgid "Subscribe to our Newsletter"
+msgstr "Suscribirse a nuestro Boletín de Noticias"
+
+#: obfx_modules/companion-legacy/inc/hestia/inc/features/feature-ribbon-section.php:81
+msgid "Background Image"
+msgstr "Imagen de Fondo"
+
+#: obfx_modules/companion-legacy/inc/hestia/inc/features/feature-ribbon-section.php:29
+#: obfx_modules/companion-legacy/inc/hestia/inc/features/feature-ribbon-section.php:40
+msgid "Ribbon"
+msgstr "Cinta"
+
+#: obfx_modules/companion-legacy/inc/hestia/inc/features/feature-clients-bar-section.php:82
+msgid "Clients"
+msgstr "Clientes"
+
+#: obfx_modules/companion-legacy/inc/hestia/inc/features/feature-clients-bar-section.php:81
+msgid "Add new client"
+msgstr "Añadir nuevo cliente"
+
+#: obfx_modules/companion-legacy/inc/hestia/inc/features/feature-clients-bar-section.php:78
+msgid "Clients Bar Content"
+msgstr "Contenido de la Barra de Clientes"
+
+#: obfx_modules/companion-legacy/inc/hestia/inc/features/feature-clients-bar-section.php:26
+#: obfx_modules/companion-legacy/inc/hestia/inc/features/feature-clients-bar-section.php:37
+msgid "Clients Bar"
+msgstr "Barra de Clientes"
+
+#: obfx_modules/social-sharing/views/hestia-social-sharing-tpl.php:38
+msgid "Share on "
+msgstr "Compartir en "
+
+#: obfx_modules/social-sharing/init.php:30
+msgid "Social Sharing Module"
+msgstr "Módulo de intercambio social"
+
+#: core/app/views/partials/module-tile-tpl.php:67
+#: dashboard/build/dashboard.js:1 dashboard/src/components/PluginCard.js:32
+#: obfx_modules/template-directory/js/template-directory.js:1
+#: obfx_modules/template-directory/src/components/StarterSitesUnavailable.js:47
+msgid "Activate"
+msgstr "Activar"
+
+#: core/app/views/partials/module-tile-tpl.php:18
+msgid "Module Description ..."
+msgstr "Descripción del módulo..."
+
+#: core/app/views/partials/module-tile-tpl.php:14
+msgid "Module Name"
+msgstr "Nombre del módulo"
+
+#: core/app/views/partials/module-panel-tpl.php:31
+msgid "No options provided."
+msgstr "No hay opciones."
+
+#: core/app/views/partials/module-panel-tpl.php:27
+msgid "The Module Description ..."
+msgstr "La descripción del módulo..."
+
+#: core/app/views/partials/module-panel-tpl.php:23
+msgid "The Module Name"
+msgstr "El nombre del módulo"
+
+#: core/app/views/partials/empty-tpl.php:18
+msgid "Contact support"
+msgstr "Contactar con soporte"
+
+#: core/app/views/partials/empty-tpl.php:14
+msgid "There are no modules for the Fox!"
+msgstr "¡No hay módulos para Fox!"
+
+#: core/app/views/modules-page.php:94
+msgid "No modules activated."
+msgstr "No hay módulos activados."
+
+#: core/app/views/modules-page.php:70 dashboard/build/dashboard.js:1
+#: dashboard/src/utils/common.js:17
+msgid "Available Modules"
+msgstr "Módulos disponibles"
+
+#: core/app/helpers/class-orbit-fox-render-helper.php:123
+msgid "No option found for provided type"
+msgstr "No hay opciones para el tipo proporcionado"
+
+#: core/app/class-orbit-fox-admin.php:400
+msgid "Options updated, successfully!"
+msgstr "¡Opciones actualizadas con éxito!"
+
+#: core/app/class-orbit-fox-admin.php:396
+msgid "Something went wrong, data might not be saved!"
+msgstr "Algo salió mal, ¡los datos pueden no haberse guardado!"
+
+#: core/app/class-orbit-fox-admin.php:390
+msgid "No module found! No data was updated."
+msgstr "¡No se encontraron módulos! No se actualizaron datos."
+
+#. Plugin Name of the plugin
+msgid "Orbit Fox Companion"
+msgstr "Orbit Fox Companion"
+
+#: core/app/class-orbit-fox-admin.php:253
+#: core/app/class-orbit-fox-admin.php:254 core/app/views/modules-page.php:45
+msgid "Orbit Fox"
+msgstr "Orbit Fox"
+
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:85
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:80
+#: obfx_modules/companion-legacy/inc/shop-isle/customizer.php:179
+#: obfx_modules/companion-legacy/inc/shop-isle/customizer.php:315
+msgid "Subtitle"
+msgstr "Subtítulo"
+
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:585
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:580
+#: obfx_modules/beaver-widgets/modules/services/obfx-services.php:244
+#: obfx_modules/beaver-widgets/modules/services/services.php:239
+msgid "Icon"
+msgstr "Ícono"
+
+#: obfx_modules/companion-legacy/inc/hestia/functions.php:74
+msgid "Blog"
+msgstr "Blog"
+
+#: obfx_modules/companion-legacy/inc/hestia/functions.php:72
+msgid "Front Page"
+msgstr "Página de inicio"
+
+#. Author of the plugin
+msgid "Themeisle"
+msgstr "ThemeIsle"
+
+#: obfx_modules/companion-legacy/inc/zerif-lite/widgets/widget-testimonial.php:206
+msgid "Author details"
+msgstr "Detalles del autor"
+
+#: obfx_modules/companion-legacy/inc/zerif-lite/widgets/widget-testimonial.php:192
+msgid "Author link"
+msgstr "Enlace del autor"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/includes/loop-settings.php:59
+#: obfx_modules/beaver-widgets/modules/post-grid/obfx-post-grid.php:216
+#: obfx_modules/beaver-widgets/modules/post-grid/post-grid.php:212
+#: obfx_modules/companion-legacy/inc/zerif-lite/widgets/widget-testimonial.php:178
+msgid "Author"
+msgstr "Autor"
+
+#: obfx_modules/companion-legacy/inc/zerif-lite/widgets/widget-testimonial.php:24
+msgid "Zerif - Testimonial widget"
+msgstr "Zerif - Widget de Testimonios"
+
+#: obfx_modules/companion-legacy/inc/zerif-lite/widgets/widget-team.php:402
+msgid "Open links in new window?"
+msgstr "¿Abrir enlaces en una nueva ventana?"
+
+#: obfx_modules/companion-legacy/inc/zerif-lite/widgets/widget-team.php:382
+msgid "Linkedin link"
+msgstr "Enlace de LinkedIn"
+
+#: obfx_modules/companion-legacy/inc/zerif-lite/widgets/widget-team.php:368
+msgid "Dribble link"
+msgstr "Enlace de Dribble"
+
+#: obfx_modules/companion-legacy/inc/zerif-lite/widgets/widget-team.php:353
+msgid "Behance link"
+msgstr "Enlace de Behance"
+
+#: obfx_modules/companion-legacy/inc/zerif-lite/widgets/widget-team.php:339
+msgid "Twitter link"
+msgstr "Enlace de Twitter"
+
+#: obfx_modules/companion-legacy/inc/zerif-lite/widgets/widget-team.php:324
+msgid "Facebook link"
+msgstr "Enlace de Facebook"
+
+#: obfx_modules/companion-legacy/inc/zerif-lite/widgets/widget-team.php:311
+msgid "Description"
+msgstr "Descripción"
+
+#: obfx_modules/beaver-widgets/modules/services/obfx-services.php:109
+#: obfx_modules/beaver-widgets/modules/services/services.php:104
+#: obfx_modules/companion-legacy/inc/zerif-lite/widgets/widget-team.php:299
+msgid "Position"
+msgstr "Puesto"
+
+#: obfx_modules/companion-legacy/inc/zerif-lite/widgets/widget-team.php:285
+msgid "Name"
+msgstr "Nombre"
+
+#: obfx_modules/companion-legacy/inc/zerif-lite/widgets/widget-team.php:210
+msgid "Linkedin account of"
+msgstr "Cuenta LinkedIn de"
+
+#: obfx_modules/companion-legacy/inc/zerif-lite/widgets/widget-team.php:189
+msgid "Dribble account of"
+msgstr "Cuenta Dribbble de"
+
+#: obfx_modules/companion-legacy/inc/zerif-lite/widgets/widget-team.php:168
+msgid "Behance account of"
+msgstr "Cuenta Behance de"
+
+#: obfx_modules/companion-legacy/inc/zerif-lite/widgets/widget-team.php:147
+msgid "Twitter account of"
+msgstr "Cuenta Twitter de"
+
+#: obfx_modules/companion-legacy/inc/zerif-lite/widgets/widget-team.php:126
+msgid "Facebook account of"
+msgstr "Cuenta Facebook de"
+
+#: obfx_modules/companion-legacy/inc/zerif-lite/widgets/widget-team.php:24
+msgid "Zerif - Team member widget"
+msgstr "Zerif - Widget de miembro de equipo"
+
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:499
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:581
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:494
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:576
+#: obfx_modules/beaver-widgets/modules/services/obfx-services.php:239
+#: obfx_modules/beaver-widgets/modules/services/services.php:234
+#: obfx_modules/companion-legacy/inc/hestia/inc/features/feature-ribbon-section.php:102
+#: obfx_modules/companion-legacy/inc/zerif-lite/widgets/widget-focus.php:195
+#: obfx_modules/companion-legacy/inc/zerif-lite/widgets/widget-testimonial.php:220
+msgid "Text"
+msgstr "Texto"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/includes/loop-settings.php:68
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:62
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:57
+#: obfx_modules/beaver-widgets/modules/services/obfx-services.php:235
+#: obfx_modules/beaver-widgets/modules/services/services.php:230
+#: obfx_modules/companion-legacy/inc/shop-isle/customizer.php:161
+#: obfx_modules/companion-legacy/inc/shop-isle/customizer.php:297
+#: obfx_modules/companion-legacy/inc/shop-isle/customizer.php:389
+#: obfx_modules/companion-legacy/inc/zerif-lite/widgets/widget-focus.php:181
+msgid "Title"
+msgstr "Título"
+
+#: obfx_modules/companion-legacy/inc/zerif-lite/widgets/widget-focus.php:102
+msgid "Go to"
+msgstr "Ir a"
+
+#: obfx_modules/companion-legacy/inc/zerif-lite/widgets/widget-focus.php:23
+msgid "Zerif - Our focus widget"
+msgstr "Zerif - Widget de nuestro enfoque"
+
+#: obfx_modules/companion-legacy/inc/zerif-lite/widgets/widget-clients.php:183
+#: obfx_modules/companion-legacy/inc/zerif-lite/widgets/widget-focus.php:270
+#: obfx_modules/companion-legacy/inc/zerif-lite/widgets/widget-team.php:456
+#: obfx_modules/companion-legacy/inc/zerif-lite/widgets/widget-testimonial.php:281
+msgid "Upload Image"
+msgstr "Subir imagen"
+
+#: obfx_modules/companion-legacy/inc/zerif-lite/widgets/widget-clients.php:167
+#: obfx_modules/companion-legacy/inc/zerif-lite/widgets/widget-focus.php:254
+#: obfx_modules/companion-legacy/inc/zerif-lite/widgets/widget-team.php:440
+#: obfx_modules/companion-legacy/inc/zerif-lite/widgets/widget-testimonial.php:265
+msgid "Uploaded image"
+msgstr "Subir imagen"
+
+#: obfx_modules/companion-legacy/inc/zerif-lite/widgets/widget-clients.php:134
+#: obfx_modules/companion-legacy/inc/zerif-lite/widgets/widget-focus.php:221
+#: obfx_modules/companion-legacy/inc/zerif-lite/widgets/widget-team.php:407
+#: obfx_modules/companion-legacy/inc/zerif-lite/widgets/widget-testimonial.php:232
+msgid "Image"
+msgstr "Imagen"
+
+#: obfx_modules/companion-legacy/inc/hestia/inc/features/feature-ribbon-section.php:140
+#: obfx_modules/companion-legacy/inc/zerif-lite/widgets/widget-clients.php:120
+#: obfx_modules/companion-legacy/inc/zerif-lite/widgets/widget-focus.php:207
+msgid "Link"
+msgstr "Enlace"
+
+#: obfx_modules/companion-legacy/inc/zerif-lite/widgets/widget-clients.php:66
+#: obfx_modules/companion-legacy/inc/zerif-lite/widgets/widget-clients.php:73
+msgid "Client"
+msgstr "Cliente"
+
+#: obfx_modules/companion-legacy/inc/zerif-lite/widgets/widget-clients.php:24
+msgid "Zerif - Clients widget"
+msgstr "Zerif - Widget de clientes"
+
+#: obfx_modules/companion-legacy/inc/hestia/inc/features/feature-testimonials-section.php:115
+msgid "Testimonial"
+msgstr "Testimonio"
+
+#: obfx_modules/companion-legacy/inc/hestia/inc/features/feature-testimonials-section.php:114
+msgid "Add new Testimonial"
+msgstr "Añadir testimonio"
+
+#: obfx_modules/companion-legacy/inc/hestia/inc/features/feature-testimonials-section.php:111
+msgid "Testimonials Content"
+msgstr "Contenido de testimonios"
+
+#: obfx_modules/companion-legacy/inc/hestia/inc/features/feature-testimonials-section.php:26
+#: obfx_modules/companion-legacy/inc/hestia/inc/features/feature-testimonials-section.php:37
+msgid "Testimonials"
+msgstr "Testimonios"
+
+#: obfx_modules/companion-legacy/inc/hestia/inc/features/feature-team-section.php:115
+msgid "Team Member"
+msgstr "Miembro de equipo"
+
+#: obfx_modules/companion-legacy/inc/hestia/inc/features/feature-team-section.php:114
+msgid "Add new Team Member"
+msgstr "Añadir miembro de equipo"
+
+#: obfx_modules/companion-legacy/inc/hestia/inc/features/feature-team-section.php:111
+msgid "Team Content"
+msgstr "Contenido de equipo"
+
+#: obfx_modules/companion-legacy/inc/hestia/inc/features/feature-team-section.php:26
+#: obfx_modules/companion-legacy/inc/hestia/inc/features/feature-team-section.php:37
+msgid "Team"
+msgstr "Equipo"
+
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:155
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:567
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:150
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:562
+#: obfx_modules/companion-legacy/inc/hestia/inc/features/feature-features-section.php:115
+msgid "Feature"
+msgstr "Característica"
+
+#: obfx_modules/companion-legacy/inc/hestia/inc/features/feature-features-section.php:114
+msgid "Add new Feature"
+msgstr "Añadir característica"
+
+#: obfx_modules/companion-legacy/inc/hestia/inc/features/feature-features-section.php:111
+msgid "Features Content"
+msgstr "Contenido de características"
+
+#: obfx_modules/companion-legacy/inc/hestia/inc/features/feature-features-section.php:91
+#: obfx_modules/companion-legacy/inc/hestia/inc/features/feature-team-section.php:91
+#: obfx_modules/companion-legacy/inc/hestia/inc/features/feature-testimonials-section.php:91
+msgid "Section Subtitle"
+msgstr "Subtítulo de sección"
+
+#: obfx_modules/companion-legacy/inc/hestia/inc/features/feature-features-section.php:74
+#: obfx_modules/companion-legacy/inc/hestia/inc/features/feature-team-section.php:74
+#: obfx_modules/companion-legacy/inc/hestia/inc/features/feature-testimonials-section.php:74
+msgid "Section Title"
+msgstr "Título de sección"
+
+#: obfx_modules/companion-legacy/inc/hestia/inc/features/feature-clients-bar-section.php:57
+#: obfx_modules/companion-legacy/inc/hestia/inc/features/feature-features-section.php:57
+#: obfx_modules/companion-legacy/inc/hestia/inc/features/feature-ribbon-section.php:60
+#: obfx_modules/companion-legacy/inc/hestia/inc/features/feature-team-section.php:57
+#: obfx_modules/companion-legacy/inc/hestia/inc/features/feature-testimonials-section.php:57
+msgid "Disable section"
+msgstr "Desactivar sección"
+
+#: obfx_modules/companion-legacy/inc/hestia/inc/features/feature-features-section.php:26
+#: obfx_modules/companion-legacy/inc/hestia/inc/features/feature-features-section.php:37
+msgid "Features"
+msgstr "Características"
+
+#: obfx_modules/companion-legacy/inc/hestia/inc/sections/hestia-testimonials-section.php:242
+msgid "\"Thank you for making it painless, pleasant and most of all hassle free! I am so pleased with this product. Dude, your stuff is great! I will refer everyone I know.\""
+msgstr "\"¡Gracias por hacerlo fácil, agradable y libre de problemas! Estoy tan satisfecho con este producto. Este material es excelente. Voy a recomendarlo a todos.\""
+
+#: obfx_modules/companion-legacy/inc/hestia/inc/sections/hestia-testimonials-section.php:241
+msgid "Freelancer"
+msgstr "Independiente"
+
+#: obfx_modules/companion-legacy/inc/hestia/inc/sections/hestia-testimonials-section.php:240
+msgid "Natalya Undergrowth"
+msgstr "Natalya Undergrowth"
+
+#: obfx_modules/companion-legacy/inc/hestia/inc/sections/hestia-testimonials-section.php:235
+msgid "\"Your company is truly upstanding and is behind its product 100 percent. Hestia is worth much more than I paid. I like Hestia more each day because it makes easier.\""
+msgstr "\"Su compañía es realmente respetable y respalda su producto al 100 por ciento. Hestia vale mucho más de lo que pagué. Me gusta Hestia más cada día porque lo hace fácil.\""
+
+#: obfx_modules/companion-legacy/inc/hestia/inc/sections/hestia-testimonials-section.php:234
+msgid "Independent Artist"
+msgstr "Artista independiente"
+
+#: obfx_modules/companion-legacy/inc/hestia/inc/sections/hestia-testimonials-section.php:233
+msgid "Hanson Deck"
+msgstr "Hanson Deck"
+
+#: obfx_modules/companion-legacy/inc/hestia/inc/sections/hestia-testimonials-section.php:228
+msgid "\"We have no regrets! After using your product my business skyrocketed! I made back the purchase price in just 48 hours! I couldn't have asked for more than this.\""
+msgstr "\"No nos arrepentimos. Después de usar el producto mi negocio se ha disparado. Recuperé el dinero de la compra en solo 48 horas. No podría pedir más.\""
+
+#: obfx_modules/companion-legacy/inc/hestia/inc/sections/hestia-testimonials-section.php:227
+msgid "Business Owner"
+msgstr "Propietario de la empresa"
+
+#: obfx_modules/companion-legacy/inc/hestia/inc/sections/hestia-testimonials-section.php:226
+msgid "Inverness McKenzie"
+msgstr "Inverness McKenzie"
+
+#: obfx_modules/companion-legacy/inc/hestia/inc/customizer.php:47
+#: obfx_modules/companion-legacy/inc/hestia/inc/sections/hestia-testimonials-section.php:28
+msgid "What clients say"
+msgstr "Qué dicen nuestros clientes"
+
+#: obfx_modules/companion-legacy/inc/hestia/inc/sections/hestia-team-section.php:358
+msgid "Small batch vexillologist 90's blue bottle stumptown bespoke. Pok pok tilde fixie chartreuse, VHS gluten-free selfies wolf hot."
+msgstr "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+
+#: obfx_modules/companion-legacy/inc/hestia/inc/sections/hestia-team-section.php:357
+msgid "Lead Developer"
+msgstr "Desarrollador líder"
+
+#: obfx_modules/companion-legacy/inc/hestia/inc/sections/hestia-team-section.php:356
+msgid "Ruby Von Rails"
+msgstr "Ruby Von Rails"
+
+#: obfx_modules/companion-legacy/inc/hestia/inc/sections/hestia-team-section.php:327
+msgid "Pok pok direct trade godard street art, poutine fam typewriter food truck narwhal kombucha wolf cardigan butcher whatever pickled you."
+msgstr "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+
+#: obfx_modules/companion-legacy/inc/hestia/inc/sections/hestia-team-section.php:326
+msgid "Graphic Designer"
+msgstr "Diseñador Gráfico"
+
+#: obfx_modules/companion-legacy/inc/hestia/inc/sections/hestia-team-section.php:325
+msgid "Desmond Eagle"
+msgstr "Desmond Eagle"
+
+#: obfx_modules/companion-legacy/inc/hestia/inc/sections/hestia-team-section.php:296
+msgid "Craft beer salvia celiac mlkshk. Pinterest celiac tumblr, portland salvia skateboard cliche thundercats. Tattooed chia austin hell."
+msgstr "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+
+#: obfx_modules/companion-legacy/inc/hestia/inc/sections/hestia-team-section.php:295
+msgid "Marketing Specialist"
+msgstr "Especialista en Mercadotecnia"
+
+#: obfx_modules/companion-legacy/inc/hestia/inc/sections/hestia-team-section.php:294
+msgid "Parsley Pepperspray"
+msgstr "Parsley Pepperspray"
+
+#: obfx_modules/companion-legacy/inc/hestia/inc/sections/hestia-team-section.php:265
+msgid "Locavore pinterest chambray affogato art party, forage coloring book typewriter. Bitters cold selfies, retro celiac sartorial mustache."
+msgstr "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+
+#: obfx_modules/companion-legacy/inc/hestia/inc/sections/hestia-team-section.php:264
+msgid "CEO"
+msgstr "Director"
+
+#: obfx_modules/companion-legacy/inc/hestia/inc/sections/hestia-team-section.php:263
+msgid "Desmond Purpleson"
+msgstr "Desmond Purpleson"
+
+#: obfx_modules/companion-legacy/inc/hestia/inc/customizer.php:34
+#: obfx_modules/companion-legacy/inc/hestia/inc/sections/hestia-team-section.php:31
+#: obfx_modules/companion-legacy/inc/shop-isle/customizer.php:154
+#: obfx_modules/companion-legacy/inc/shop-isle/template-about.php:81
+msgid "Meet our team"
+msgstr "Conozca a nuestro equipo"
+
+#: obfx_modules/companion-legacy/inc/hestia/inc/sections/hestia-features-section.php:213
+msgid "Support"
+msgstr "Soporte"
+
+#: obfx_modules/companion-legacy/inc/hestia/inc/sections/hestia-features-section.php:206
+msgid "Quality"
+msgstr "Calidad"
+
+#: obfx_modules/companion-legacy/inc/hestia/inc/sections/hestia-features-section.php:199
+msgid "Responsive"
+msgstr "Adaptable"
+
+#: obfx_modules/companion-legacy/inc/hestia/inc/customizer.php:23
+#: obfx_modules/companion-legacy/inc/hestia/inc/customizer.php:38
+#: obfx_modules/companion-legacy/inc/hestia/inc/customizer.php:51
+#: obfx_modules/companion-legacy/inc/hestia/inc/sections/hestia-features-section.php:29
+#: obfx_modules/companion-legacy/inc/hestia/inc/sections/hestia-features-section.php:200
+#: obfx_modules/companion-legacy/inc/hestia/inc/sections/hestia-features-section.php:207
+#: obfx_modules/companion-legacy/inc/hestia/inc/sections/hestia-features-section.php:214
+#: obfx_modules/companion-legacy/inc/hestia/inc/sections/hestia-team-section.php:32
+#: obfx_modules/companion-legacy/inc/hestia/inc/sections/hestia-testimonials-section.php:29
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+msgstr "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+
+#: obfx_modules/companion-legacy/inc/hestia/inc/customizer.php:18
+#: obfx_modules/companion-legacy/inc/hestia/inc/sections/hestia-features-section.php:28
+msgid "Why our product is the best"
+msgstr "Por qué nuestro producto es el mejor"
